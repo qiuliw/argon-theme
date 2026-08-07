@@ -1,9 +1,0 @@
-﻿.env
-data/
-backups/
-docs/exports/
-docs/config-archive/
-*.log
-*.sql
-*.sql.gz
-*.tar.gz
